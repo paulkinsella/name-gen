@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Paul",
+        "gender": "male",
+        "popularity": 89,
+        "fact": "Paul's are usually smart and sound!",
+        "symbol": "👍"
+    },
+    {
+        "name": "Steven",
+        "gender": "male",
+        "popularity": 58,
+        "fact": "Steven is the name of a coward!",
+        "symbol": "💩"
+    },
+    {
+        "name": "David",
+        "gender": "male",
+        "popularity": 79,
+        "fact": "Being named David is an indication that your parents just did not care!",
+        "symbol": "💩"
+    },
+    {
+        "name": "Derek",
+        "gender": "male",
+        "popularity": 15,
+        "fact": "Most Derek's are bald!",
+        "symbol": "💩"
+    },
+    {
+        "name": "Kevin",
+        "gender": "male",
+        "popularity": 49,
+        "fact": "Kevin's wear socks in bed!",
+        "symbol": "💩"
+    },
+    {
+        "name": "Jason",
+        "gender": "male",
+        "popularity": 65,
+        "fact": "A Jason will go to prison at some point!",
+        "symbol": "💩"
+    },
+    {
+        "name": "Adam",
+        "gender": "male",
+        "popularity": 61,
+        "fact": "An Adam will sleep with your misses!",
+        "symbol": "💩"
+    },
+    {
+        "name": "Jamie",
+        "gender": "male",
+        "popularity": 15,
+        "fact": "Your parents wanted a girl!",
+        "symbol": "💩"
+    },
+    {
+        "name": "Robbie",
+        "gender": "male",
+        "popularity": 50,
+        "fact": "Robbie is usually a dickhead!",
+        "symbol": "💩"
+    },
+    {
+        "name": "Mark",
+        "gender": "male",
+        "popularity": 10,
+        "fact": "Mark's are terrible footballers!",
+        "symbol": "💩"
+    },
+    {
+        "name": "Dermot",
+        "gender": "male",
+        "popularity": 5,
+        "fact": "No child should ever have to endure this name!",
+        "symbol": "💩"
+    },
+    {
+        "name": "Larry",
+        "gender": "male",
+        "popularity": 35,
+        "fact": "Possibly a rapist!",
+        "symbol": "💩"
+    },
+    {
+        "name": "Kyle",
+        "gender": "male",
+        "popularity": 99,
+        "fact": "Possibly a legend!",
+        "symbol": "👍"
+    },
+    {
+        "name": "Cole",
+        "gender": "male",
+        "popularity": 99,
+        "fact": "Possibly a legend!",
+        "symbol": "👍"
+    },
+    {
+        "name": "Michael",
+        "gender": "male",
+        "popularity": 63,
+        "fact": "Smells his own farts!",
+        "symbol": "💩"
+    },
+    {
+        "name": "Chris",
+        "gender": "male",
+        "popularity": 25,
+        "fact": "A Chris will piss sitting down!",
+        "symbol": "💩"
+    }
+]
