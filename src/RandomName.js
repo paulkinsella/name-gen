@@ -4,6 +4,7 @@ import Opinion from './Opinion';
 
 const RandomName = (props) => {
   const [random, setRandom] = useState('');
+
   const {
     data,
   } = props;

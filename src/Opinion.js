@@ -18,15 +18,9 @@ const Opinion = (props) => {
     opinion = '';
   }
 
-  const getOpinionAndSymbol = (opinionAndSymbol) => {
-    return random.symbol ?
-      opinionAndSymbol = opinion + ' ' + random.symbol
-      :
-      '';
-  };
-
   return (
-    <div>{getOpinionAndSymbol()}</div>
+    <><div>{opinion}</div>
+      <div className="symbol">{random.symbol}</div></>
   );
 };
 
