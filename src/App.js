@@ -22,7 +22,6 @@ function App(props) {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <div className="heading">What Does Your Name Say About You!</div> */}
         <RandomName data={data} random={random} />
       </header>
     </div>
