@@ -39,7 +39,7 @@
         "gender": "male",
         "popularity": 65,
         "fact": "A Jason will go to prison at some point!",
-        "symbol": "💩"
+        "symbol": "👮"
     },
     {
         "name": "Adam",
@@ -110,5 +110,49 @@
         "popularity": 25,
         "fact": "A Chris will piss sitting down!",
         "symbol": "💩"
+    },
+    {
+        "name": "Louis",
+        "gender": "male",
+        "popularity": 88,
+        "fact": "Likes Dogging!",
+        "symbol": "🐶"
+    },
+    {
+        "name": "Grant",
+        "gender": "male",
+        "popularity": 66,
+        "fact": "Will practice domestic abuse!",
+        "symbol": "💪"
+    },
+    {
+        "name": "Toby",
+        "gender": "male",
+        "popularity": 66,
+        "fact": "Likes to wear dresses!",
+        "symbol": "👗"
+    },
+    {
+        "name": "Josh",
+        "gender": "male",
+        "popularity": 86,
+        "fact": "Mammies boy!",
+        "symbol": "👶"
+    },
+    {
+        "name": "Jake",
+        "gender": "male",
+        "popularity": 76,
+        "fact": "Sunday boy!",
+        "symbol": "🕴"
+    },
+    {
+        "name": "Brenden",
+        "gender": "male",
+        "popularity": 10,
+        "fact": "Will drive a bus at some point!",
+        "symbol": "🚌"
     }
+    
+
 ]
