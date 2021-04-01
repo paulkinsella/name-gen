@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-// import logo from './logo.svg';
 import RandomName from './RandomName';
+import Search from './Search';
 import './App.css';
 
 function App(props) {
@@ -22,6 +22,7 @@ function App(props) {
   return (
     <div className="App">
       <header className="App-header">
+        <Search data={data} />
         <RandomName data={data} random={random} />
       </header>
     </div>

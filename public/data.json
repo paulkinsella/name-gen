@@ -107,7 +107,7 @@
   {
     "name": "Chris",
     "gender": "male",
-    "popularity": 25,
+    "popularity": 72,
     "fact": "A Chris will pet random dogs!",
     "symbol": "🐶"
   },
@@ -180,5 +180,12 @@
     "popularity": 77,
     "fact": "A Clive will cry in the shower!",
     "symbol": "😢"
+  },
+  {
+    "name": "Dean",
+    "gender": "male",
+    "popularity": 88,
+    "fact": "Solid name!",
+    "symbol": "💪"
   }
 ]
