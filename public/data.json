@@ -187,5 +187,12 @@
     "popularity": 88,
     "fact": "Solid name!",
     "symbol": "💪"
+  },
+  {
+    "name": "Liam",
+    "gender": "male",
+    "popularity": 25,
+    "fact": "Believes in ghosts!",
+    "symbol": "👻"
   }
 ]
