@@ -32,7 +32,7 @@ const Search = (props) => {
         <input
           className="search"
           type="text"
-          placeholder="search"
+          placeholder="Search your name!"
           onChange={(event) =>
             event.target.value === " "
               ? setSearch("")
