@@ -10,11 +10,11 @@ const Opinion = (props) => {
   let opinion;
 
   if (random.popularity > 80) {
-    opinion = 'Not a bad name';
+    opinion = 'Popular name';
   } else if (random.popularity > 50 && random.popularity <= 80) {
     opinion = 'Average name';
   } else if (random.popularity <= 50) {
-    opinion = 'Shit name';
+    opinion = 'Not a popular name';
   } else {
     opinion = '';
   }
@@ -22,7 +22,7 @@ const Opinion = (props) => {
   const getRandomfact = () => {
     return random.length !== 0 ?
       <><div>{randomFact.fact}</div>
-        <div>{opinion}</div>
+        <div>({opinion})</div>
         <div className="symbol">{randomFact.symbol}</div>
       </> : '';
   };

@@ -31,7 +31,10 @@ const RandomName = (props) => {
           <div className="details">
             <div className="name">{random.name}</div>
             <div className="fact">
-              <Opinion random={random} randomFact={randomFact} />
+              <Opinion
+                random={random}
+                randomFact={randomFact}
+              />
             </div>
           </div>
         </div>

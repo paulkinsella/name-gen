@@ -84,7 +84,7 @@ export const fact = [
     "symbol": "🚌"
   },
   {
-    "fact": "Nobody likes a You!",
+    "fact": "Nobody likes you!",
     "symbol": "💩"
   },
   {
