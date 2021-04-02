@@ -3,7 +3,8 @@ import './App.css';
 
 const Opinion = (props) => {
   const {
-    random
+    random,
+    randomFact
   } = props;
 
   let opinion;
@@ -18,9 +19,18 @@ const Opinion = (props) => {
     opinion = '';
   }
 
+  const getRandomfact = () => {
+    return random.length !== 0 ?
+      <><div>{randomFact.fact}</div>
+        <div>{opinion}</div>
+        <div className="symbol">{randomFact.symbol}</div>
+      </> : '';
+  };
+
   return (
-    <><div>{opinion}</div>
-      <div className="symbol">{random.symbol}</div></>
+    <>
+      {getRandomfact()}
+    </>
   );
 };
 
